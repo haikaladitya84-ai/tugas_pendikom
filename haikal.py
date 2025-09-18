@@ -1,1 +1,1 @@
-print "haikal mahasiswa pendikom unmul fkip"
+print "haikal mahasiswa pendikom unmul"
